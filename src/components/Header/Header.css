@@ -1,0 +1,5 @@
+.header {
+  z-index: -1;
+  box-shadow: rgb(0 0 0 / 6%) 0px 1px 0px;
+  backdrop-filter: saturate(180%) blur(20px);
+}
