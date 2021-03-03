@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import React from 'react';
-import { Header, Jumbo } from '../components';
+import { Jumbo } from '../components';
 
 const Home = () => {
   return (
