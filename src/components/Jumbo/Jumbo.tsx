@@ -11,13 +11,9 @@ export function Jumbo() {
           Full Stack Developer
         </h2>
         <p className='text-sm text-white font-medium text-opacity-60 max-w-xl'>
-          I'm a Quito-based software developer who specializes in building web apps with exceptional
-          experiences. Currently, I'm a full stack developer at Sweatworks. I love Typescript and
-          GraphQL.
+          I'm a Quito-based software developer who specializes in building web apps. Currently, I'm
+          a software engineer at paypal.
         </p>
-        {/* <button className='bg-transparent text-white font-medium text-opacity-60 hover:text-white py-2 px-4 border border-grey hover:border-transparent rounded mr-2'>
-          Get in touch
-        </button> */}
       </div>
       <div className='absolute bottom-1 w-full flex justify-center'>
         <svg

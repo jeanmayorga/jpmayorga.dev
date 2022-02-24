@@ -9,7 +9,7 @@ body {
 .container {
   max-width: 768px !important;
 }
-.avatarWrapper{
+.avatarWrapper {
   width: 272px;
 }
 .avatarWrapper img {
