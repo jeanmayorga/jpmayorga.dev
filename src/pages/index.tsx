@@ -6,21 +6,21 @@ const Home = () => {
   return (
     <div className='w-screen h-screen'>
       <Head>
-        <title>Home | NextJS Starter</title>
+        <title>Jean Mayorga | Software Engineer</title>
         <link rel='icon' href='/favicon.ico' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
         <meta
           name='description'
-          content='Run NextJS applications with typescript, eslint, prettier and semantic release support.'
+          content='Im a Quito-based software engineer who specializes in building web apps.'
         />
         <meta name='keywords' content='nextjs, react, typescript' />
-        <meta property='og:locale' content='en_US' />
-        <meta property='og:title' content='NextJS Starter' />
+        <meta property='og:locale' content='es_LA' />
+        <meta property='og:title' content='Jean Mayorga' />
         <meta
           property='og:description'
-          content='Run NextJS applications with typescript, eslint, prettier and semantic release support.'
+          content='Im a Quito-based software engineer who specializes in building web apps.'
         />
-        <meta property='og:url' content='https://nextjs-starter.ferlopezm94.now.sh' />
+        <meta property='og:url' content='https://www.jeanmayorga.com' />
         <meta property='og:type' content='website' />
       </Head>
       <Jumbo />
